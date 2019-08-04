@@ -1,14 +1,34 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "vehicles": [
+    {
+        "stockNo": 3,
+        "internalId": null,
+        "regNo": "ABC123",
+        "make": "Bmw",
+        "model": "X5",
+        "colour": "Blue",
+        "status": "In Stock",
+        "stockPartsQty": 0
+    },
+    {
+        "stockNo": 4,
+        "internalId": null,
+        "regNo": "ABC123",
+        "make": "Bmw",
+        "model": "X5",
+        "colour": "Blue",
+        "status": "In Stock",
+        "stockPartsQty": 0
+    },
+    {
+        "stockNo": 5,
+        "internalId": null,
+        "regNo": "BCA432",
+        "make": "Bmw",
+        "model": "X5",
+        "colour": "Red",
+        "status": "In Stock",
+        "stockPartsQty": 0
+    }
+]
 }
