@@ -1,7 +1,7 @@
 {
   "vehicles": [
     {
-        "stockNo": 3,
+        "stockNo": 001,
         "internalId": null,
         "regNo": "ABC123",
         "make": "Bmw",
@@ -11,22 +11,42 @@
         "stockPartsQty": 0
     },
     {
-        "stockNo": 4,
+        "stockNo": 002,
         "internalId": null,
-        "regNo": "ABC123",
-        "make": "Bmw",
-        "model": "X5",
-        "colour": "Blue",
+        "regNo": "ABC321",
+        "make": "Ford",
+        "model": "Fiesta",
+        "colour": "Red",
         "status": "In Stock",
         "stockPartsQty": 0
     },
     {
-        "stockNo": 5,
+        "stockNo": 003,
+        "internalId": null,
+        "regNo": "BCA145",
+        "make": "Volkswagen",
+        "model": "Golf",
+        "colour": "Orange",
+        "status": "Scrapped",
+        "stockPartsQty": 0
+    },
+     {
+        "stockNo": 004,
         "internalId": null,
         "regNo": "BCA432",
         "make": "Bmw",
         "model": "X5",
         "colour": "Red",
+        "status": "In Stock",
+        "stockPartsQty": 0
+     },
+     {
+        "stockNo": 005,
+        "internalId": null,
+        "regNo": "CAE167",
+        "make": "Kia",
+        "model": "Sportage",
+        "colour": "Green",
         "status": "In Stock",
         "stockPartsQty": 0
     }
