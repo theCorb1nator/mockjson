@@ -39,8 +39,8 @@
 			"manufacturerPartNo": "112233",
 			"qtyInStock": "1",
 			"activeListings": "5"
-		},
-	],
+		}
+	]
 	"vehicles": [
 		{
 			"stockNo": 1,
