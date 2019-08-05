@@ -5,40 +5,40 @@
 			"description": "Cutlass log crack Jennys tea cup gangway",
 			"vehicleId": "1",
 			"manufacturerPartNo": "112233",
-			"qtyInStock": "1",
-			"activeListings": "10"
+			"qtyInStock": 1,
+			"activeListings": 0
 		},
 		{
 			"stockNo": 2,
 			"description": "Cutlass log crack Jennys tea cup gangway",
 			"vehicleId": "1",
 			"manufacturerPartNo": "112233",
-			"qtyInStock": "1",
-			"activeListings": "5"
+			"qtyInStock": 1,
+			"activeListings": 5
 		},
 		{
 			"stockNo": 3,
 			"description": "Cutlass log crack Jennys tea cup gangway",
 			"vehicleId": "1",
 			"manufacturerPartNo": "112233",
-			"qtyInStock": "1",
-			"activeListings": "5"
+			"qtyInStock": 1,
+			"activeListings": 5
 		},
 		{
 			"stockNo": 4,
 			"description": "Cutlass log crack Jennys tea cup gangway",
 			"vehicleId": "1",
 			"manufacturerPartNo": "112233",
-			"qtyInStock": "1",
-			"activeListings": "5"
+			"qtyInStock": 1,
+			"activeListings": 5
 		},
 		{
 			"stockNo": 5,
 			"description": "Cutlass log crack Jennys tea cup gangway",
 			"vehicleId": "1",
 			"manufacturerPartNo": "112233",
-			"qtyInStock": "1",
-			"activeListings": "5"
+			"qtyInStock": 1,
+			"activeListings": 5
 		}
 	],
 	"vehicles": [
