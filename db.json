@@ -1,5 +1,5 @@
 {
-	"partConditions:["Good", "Average", "Bad"],
+	"partConditions":["good", "average", "bad"],
 	"parts": [
 		{
 			"stockNo": 1,
