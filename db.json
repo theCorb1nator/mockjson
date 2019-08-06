@@ -1,6 +1,6 @@
 {
 	"partConditions":["good", "average", "bad"],
-	"parts": [
+	"stockParts": [
 		{
 			"stockNo": 1,
 			"description": "Cutlass log crack Jennys tea cup gangway",
