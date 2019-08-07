@@ -1,39 +1,37 @@
 {
-	"parts": [
-		{
+	"parts": [{
 			"Id": "1",
 			"PartNumber": "ABC12345",
 			"Description": "This is a headlight bulb",
-			"Price": 9.99,
+			"Price": "9.99"
 		},
 		{
 			"Id": "2",
 			"PartNumber": "55552222",
 			"Description": "This is a C bulb",
-			"Price": 12.99,
+			"Price": "12.99"
 		},
 		{
 			"Id": "3",
 			"PartNumber": "SREDFGDFHDF",
 			"Description": "This is a S bulb",
-			"Price": 40.99,
+			"Price": "40.99"
 		},
 		{
 			"Id": "4",
 			"PartNumber": "SNGSDGSDGD",
 			"Description": "This is a R bulb",
-			"Price": 500.99,
+			"Price": "500.99"
 		},
 		{
 			"Id": "5",
 			"PartNumber": "BCA12315",
 			"Description": "This is a T bulb",
-			"Price": 6.99,
+			"Price": "6.99"
 		}
-		],
-	"partConditions":["good", "average", "bad"],
-	"stockParts": [
-		{
+	],
+	"partConditions": ["good", "average", "bad"],
+	"stockParts": [{
 			"stockNo": 1,
 			"description": "Cutlass log crack Jennys tea cup gangway",
 			"vehicleId": "1",
@@ -74,8 +72,7 @@
 			"activeListings": 5
 		}
 	],
-	"vehicles": [
-		{
+	"vehicles": [{
 			"stockNo": 1,
 			"internalId": null,
 			"regNo": "ABC123",
