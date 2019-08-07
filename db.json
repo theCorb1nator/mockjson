@@ -1,4 +1,36 @@
 {
+	"parts": [
+		{
+			"Id": "1",
+			"PartNumber": "ABC12345",
+			"Description": "This is a headlight bulb",
+			"Price": 9.99,
+		},
+		{
+			"Id": "2",
+			"PartNumber": "55552222",
+			"Description": "This is a C bulb",
+			"Price": 12.99,
+		},
+		{
+			"Id": "3",
+			"PartNumber": "SREDFGDFHDF",
+			"Description": "This is a S bulb",
+			"Price": 40.99,
+		},
+		{
+			"Id": "4",
+			"PartNumber": "SNGSDGSDGD",
+			"Description": "This is a R bulb",
+			"Price": 500.99,
+		},
+		{
+			"Id": "5",
+			"PartNumber": "BCA12315",
+			"Description": "This is a T bulb",
+			"Price": 6.99,
+		}
+		],
 	"partConditions":["good", "average", "bad"],
 	"stockParts": [
 		{
