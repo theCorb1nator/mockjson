@@ -38,7 +38,7 @@
 			"manufacturerPartNo": "112233",
 			"qtyInStock": 1,
 			"activeListings": 0,
-			"BarcodeString": "http://generator.barcodetools.com/barcode.png?gen=3&data= 1008BMWE53 X51172&bcolor=FFFFFF&fcolor=000000&xdim=4&w=&h=&version=0&mode=0&ecl=1&angle=0&quiet=1'"
+			"barcodeString": "http://generator.barcodetools.com/barcode.png?gen=3&data= 1008BMWE53 X51172&bcolor=FFFFFF&fcolor=000000&xdim=4&w=&h=&version=0&mode=0&ecl=1&angle=0&quiet=1'"
 		},
 		{
 			"id": 2,
@@ -47,7 +47,7 @@
 			"manufacturerPartNo": "112233",
 			"qtyInStock": 1,
 			"activeListings": 5,
-			"BarcodeString": "http://generator.barcodetools.com/barcode.png?gen=3&data= 1008BMWE53 X51172&bcolor=FFFFFF&fcolor=000000&xdim=4&w=&h=&version=0&mode=0&ecl=1&angle=0&quiet=1'"
+			"barcodeString": "http://generator.barcodetools.com/barcode.png?gen=3&data= 1008BMWE53 X51172&bcolor=FFFFFF&fcolor=000000&xdim=4&w=&h=&version=0&mode=0&ecl=1&angle=0&quiet=1'"
 
 		},
 		{
@@ -57,7 +57,7 @@
 			"manufacturerPartNo": "112233",
 			"qtyInStock": 1,
 			"activeListings": 5,
-			"BarcodeString": "http://generator.barcodetools.com/barcode.png?gen=3&data= 1008BMWE53 X51172&bcolor=FFFFFF&fcolor=000000&xdim=4&w=&h=&version=0&mode=0&ecl=1&angle=0&quiet=1'"
+			"barcodeString": "http://generator.barcodetools.com/barcode.png?gen=3&data= 1008BMWE53 X51172&bcolor=FFFFFF&fcolor=000000&xdim=4&w=&h=&version=0&mode=0&ecl=1&angle=0&quiet=1'"
 
 		},
 		{
@@ -67,7 +67,7 @@
 			"manufacturerPartNo": "112233",
 			"qtyInStock": 1,
 			"activeListings": 5,
-			"BarcodeString": "http://generator.barcodetools.com/barcode.png?gen=3&data= 1008BMWE53 X51172&bcolor=FFFFFF&fcolor=000000&xdim=4&w=&h=&version=0&mode=0&ecl=1&angle=0&quiet=1'"
+			"barcodeString": "http://generator.barcodetools.com/barcode.png?gen=3&data= 1008BMWE53 X51172&bcolor=FFFFFF&fcolor=000000&xdim=4&w=&h=&version=0&mode=0&ecl=1&angle=0&quiet=1'"
 
 		},
 		{
@@ -77,7 +77,7 @@
 			"manufacturerPartNo": "112233",
 			"qtyInStock": 1,
 			"activeListings": 5,
-			"BarcodeString": "http://generator.barcodetools.com/barcode.png?gen=3&data= 1008BMWE53 X51172&bcolor=FFFFFF&fcolor=000000&xdim=4&w=&h=&version=0&mode=0&ecl=1&angle=0&quiet=1'"
+			"barcodeString": "http://generator.barcodetools.com/barcode.png?gen=3&data= 1008BMWE53 X51172&bcolor=FFFFFF&fcolor=000000&xdim=4&w=&h=&version=0&mode=0&ecl=1&angle=0&quiet=1'"
 
 		}
 	],
