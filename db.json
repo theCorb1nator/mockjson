@@ -32,7 +32,7 @@
 	],
 	"partConditions": ["good", "average", "bad"],
 	"stockParts": [{
-			"stockNo": 1,
+			"id": 1,
 			"description": "Cutlass log crack Jennys tea cup gangway",
 			"vehicleId": "1",
 			"manufacturerPartNo": "112233",
@@ -40,7 +40,7 @@
 			"activeListings": 0
 		},
 		{
-			"stockNo": 2,
+			"id": 2,
 			"description": "Cutlass log crack Jennys tea cup gangway",
 			"vehicleId": "1",
 			"manufacturerPartNo": "112233",
@@ -48,7 +48,7 @@
 			"activeListings": 5
 		},
 		{
-			"stockNo": 3,
+			"id": 3,
 			"description": "Cutlass log crack Jennys tea cup gangway",
 			"vehicleId": "1",
 			"manufacturerPartNo": "112233",
@@ -56,7 +56,7 @@
 			"activeListings": 5
 		},
 		{
-			"stockNo": 4,
+			"id": 4,
 			"description": "Cutlass log crack Jennys tea cup gangway",
 			"vehicleId": "1",
 			"manufacturerPartNo": "112233",
@@ -64,7 +64,7 @@
 			"activeListings": 5
 		},
 		{
-			"stockNo": 5,
+			"id": 5,
 			"description": "Cutlass log crack Jennys tea cup gangway",
 			"vehicleId": "1",
 			"manufacturerPartNo": "112233",
@@ -73,7 +73,7 @@
 		}
 	],
 	"vehicles": [{
-			"stockNo": 1,
+			"id": 1,
 			"internalId": null,
 			"regNo": "ABC123",
 			"make": "Bmw",
@@ -83,7 +83,7 @@
 			"stockPartsQty": 0
 		},
 		{
-			"stockNo": 2,
+			"id": 2,
 			"internalId": null,
 			"regNo": "ABC321",
 			"make": "Ford",
@@ -93,7 +93,7 @@
 			"stockPartsQty": 0
 		},
 		{
-			"stockNo": 3,
+			"id": 3,
 			"internalId": null,
 			"regNo": "BCA145",
 			"make": "Volkswagen",
@@ -103,7 +103,7 @@
 			"stockPartsQty": 0
 		},
 		{
-			"stockNo": 4,
+			"id": 4,
 			"internalId": null,
 			"regNo": "BCA432",
 			"make": "Bmw",
@@ -113,7 +113,7 @@
 			"stockPartsQty": 0
 		},
 		{
-			"stockNo": 5,
+			"id": 5,
 			"internalId": null,
 			"regNo": "CAE167",
 			"make": "Kia",
