@@ -33,6 +33,7 @@
 	"partConditions": ["good", "average", "bad"],
 	"stockParts": [{
 			"id": 1,
+		        "name":"Headlight Bulb A",
 			"description": "Cutlass log crack Jennys tea cup gangway",
 			"vehicleId": "1",
 			"manufacturerPartNo": "112233",
@@ -42,6 +43,7 @@
 		},
 		{
 			"id": 2,
+			"name":"Headlight Bulb B",
 			"description": "Cutlass log crack Jennys tea cup gangway",
 			"vehicleId": "1",
 			"manufacturerPartNo": "112233",
@@ -62,6 +64,7 @@
 		},
 		{
 			"id": 4,
+			"name":"Headlight Bulb C",
 			"description": "Cutlass log crack Jennys tea cup gangway",
 			"vehicleId": "1",
 			"manufacturerPartNo": "112233",
@@ -72,6 +75,7 @@
 		},
 		{
 			"id": 5,
+			"name":"Headlight Bulb D",
 			"description": "Cutlass log crack Jennys tea cup gangway",
 			"vehicleId": "1",
 			"manufacturerPartNo": "112233",
