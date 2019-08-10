@@ -34,7 +34,7 @@
 	"stockParts": [{
 			"id": 1,
 		        "name":"Headlight Bulb A",
-			"description": "Cutlass log crack Jennys tea cup gangway",
+			"description": "A brand new shiny headlight bulb",
 			"vehicleId": "1",
 			"manufacturerPartNo": "112233",
 			"qtyInStock": 1,
@@ -44,7 +44,7 @@
 		{
 			"id": 2,
 			"name":"Headlight Bulb B",
-			"description": "Cutlass log crack Jennys tea cup gangway",
+			"description": "Another headlight bulb but from vehicle 2",
 			"vehicleId": "2",
 			"manufacturerPartNo": "112233",
 			"qtyInStock": 1,
@@ -55,7 +55,7 @@
 		{
 			"id": 3,
 			"name":"Headlight Bulb C",
-			"description": "Cutlass log crack Jennys tea cup gangway",
+			"description": "Another headlight bulb but from vehicle 3",
 			"vehicleId": "3",
 			"manufacturerPartNo": "223344",
 			"qtyInStock": 1,
@@ -66,7 +66,7 @@
 		{
 			"id": 4,
 			"name":"Headlight Bulb D",
-			"description": "Cutlass log crack Jennys tea cup gangway",
+			"description": "Fucked headlight bulb but from vehicle 4",
 			"vehicleId": "4",
 			"manufacturerPartNo": "334455",
 			"qtyInStock": 1,
@@ -77,7 +77,7 @@
 		{
 			"id": 5,
 			"name":"Headlight Bulb E",
-			"description": "Cutlass log crack Jennys tea cup gangway",
+			"description": "Not a headlight bulb but hey ho, vehicle 5",
 			"vehicleId": "5",
 			"manufacturerPartNo": "445566",
 			"qtyInStock": 1,
