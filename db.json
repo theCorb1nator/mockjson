@@ -107,7 +107,7 @@
 			"abbreviation": "FO",
 			"chassisModel": "F45",
 			"colour": "Red",
-			"status": "In Stock",
+			"status": "Breaking",
 			"stockPartsQty": 0
 		},
 		{
@@ -143,7 +143,7 @@
 			"model": "Sportage",
 			"chassisModel": "T12",
 			"colour": "Green",
-			"status": "In Stock",
+			"status": "Breaking",
 			"stockPartsQty": 0
 		}
 	]
